@@ -6,7 +6,7 @@
 制御構文: `if, else, while, for, def, return, end`  
 入出力: `File.open, gets, puts, print, readline`  
 文字列操作: `arr[i]`  
-演算子: `+, -, *, /, %, ==, !=, <, >, <=, >=`
+演算子: `+, -, *, /, %, ==, !=, <, >, <=, >=`   
 オブジェクト生成: `new` 
 
 ### Go
