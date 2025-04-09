@@ -31,7 +31,7 @@
 制御構文: `if, else, while, for, def, return, end`  
 入出力: `File.open, gets, puts, print, readline`  
 配列操作: `arr[i]`  
-演算子: `+, -, *, /, %, ==, !=, <, >, <=, >=`
+演算子: `+, -, *, /, %, ==, !=, <, >, <=, >=`   
 オブジェクト生成: `new` 
 
 ### Go
@@ -53,7 +53,7 @@
 ## [HashMap] 固定サイズバケットによる O(1) アクセス（リサイズ含む）
 
 ### Ruby
-制御構文: `if, else, while, for, def, return, end` 
+制御構文: `if, else, while, for, def, return, end`  
 入出力: `File.open, gets, puts, print, readline`  
 配列操作: `arr[i]`  
 演算子: `+, -, *, /, %, ==, !=, <, >, <=, >=`  
